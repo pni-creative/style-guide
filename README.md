@@ -22,6 +22,9 @@
 ## File
 * Partials are named `_partial.scss`
 
+## GIT
+* The format for the commit is `[type-of-work] / [JIRA ticket number]` the type of work could be: `feature`, `hotfix` or `release`. ie. `feature/SPLS-01`
+
 ### Example
 
 ```css
