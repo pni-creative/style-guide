@@ -1,4 +1,4 @@
-### PNI SCSS Style-Guide
+# PNI SCSS Style-Guide
 
 ## Formatting
 * Use hyphens when naming mixins, extends, classes, functions & variables: `span-columns` not `span_columns` or `spanColumns`.
