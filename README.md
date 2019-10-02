@@ -1,3 +1,5 @@
+### PNI SCSS Style-Guide
+
 ## Formatting
 * Use hyphens when naming mixins, extends, classes, functions & variables: `span-columns` not `span_columns` or `spanColumns`.
 * Use one space between property and value: `width: 20px` not `width:20px`.
