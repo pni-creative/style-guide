@@ -6,8 +6,9 @@
 * Avoid using shorthand properties for only one value: `background-color: #ff0000;`, not `background: #ff0000;`
 * Use `//` for comment blocks not `/* */`.
 * Use one space between selector and `{`.
-* Use double colons for pseudo-elements
+* Use double colons for pseudo-elements.
 * Mark todos and action items with `TODO`.  `// TODO: action item`
+* Finish all attributes with a semicolon. 
 
 ## Order
 * Place `@extends` and `@includes` at the top of your declaration list.
@@ -18,14 +19,11 @@
 ## Selectors
 * Avoid the use of ID's for style.
 * Use ID and class names that are as short as possible but as long as necessary.
-* Avoid nesting more than 3 selectors deep.
+* Whenever possible aim for no more than 3 nested elements. 
 * Avoid nesting within a media query.
 
 ## File
 * Partials are named `_partial.scss`
-
-## GIT
-* The format for the commit is `[type-of-work] / [JIRA ticket number]` the type of work could be: `feature`, `hotfix` or `release`. ie. `feature/SPLS-01`
 
 ### Example
 
